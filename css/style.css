@@ -5,16 +5,21 @@ body {
 }
 
 h1 {
+  color: #66BFBF;
   font-size: 90px;
-  margin-top: 0;
+  margin-top: 50px;
   font-family: 'Sacramento', cursive;
 }
 
 h2 {
+  color: #66BFBF;
+  font-weight: normal;
   font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
 }
 
 h3 {
+  color:#11999E;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -49,4 +54,10 @@ h3 {
 }
 .BeerIMG{
   width:250px;
+}
+a{
+  color:#11999E;
+}
+h1{
+  line-height: 1;
 }
